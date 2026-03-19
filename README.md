@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel 👋
 
-### Backend Engineer | Node.js • NestJS • FastAPI • AI (In Progress)
+### Software Engineer | Node.js • NestJS • FastAPI • AI (In Progress)
 
 ---
 
@@ -8,7 +8,7 @@
 ## 🧠 About Me
 
 * Software Developer focused on **scalable, production-ready systems**
-* Specialized in **Node.js, NestJS, PostgreSQL & MongoDB**
+* Specialized in **Node.js, NestJS, FastApi, MySQL, PostgreSQL & MongoDB**
 * Currently **upskilling in Machine Learning, AI Agents & Automation**
 * Building **AI-powered workflows, APIs, and intelligent systems**
 * Strong focus on:
