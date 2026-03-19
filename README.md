@@ -4,14 +4,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-* GitHub: https://github.com/Emmy-py
-* LinkedIn: https://www.linkedin.com/in/emmanuel-ngene-708337263
-* Twitter (X): https://x.com/_devemmy
-* TikTok: https://www.tiktok.com/@_devemmy
-
----
 
 ## 🧠 About Me
 
@@ -98,6 +90,7 @@
 * WebSocket-based live updates
 * Tech: JavaScript, APIs, Real-time systems
 
+And many more.
 ---
 
 ## 📊 GitHub Stats
@@ -124,6 +117,14 @@
 
 ---
 
+## 🌐 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/emmanuel-ngene-708337263
+* Twitter (X): https://x.com/_devemmy
+* TikTok: https://www.tiktok.com/@_devemmy
+* Email: emmanuelngene145@gmail.com
+
+---
 ## ⚡ Fun Fact
 
 I build systems that **don’t break under pressure** 🚀
