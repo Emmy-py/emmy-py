@@ -4,15 +4,12 @@
 
 ---
 
-
 ## 🧠 About Me
 
 * Software Developer focused on **scalable, production-ready systems**
-* Specialized in **Node.js, NestJS, FastApi, MySQL, PostgreSQL & MongoDB**
+* Specialized in **Node.js, NestJS, FastAPI, MySQL & MongoDB**
 * Currently **upskilling in Machine Learning, AI Agents & Automation**
-* Building **AI-powered workflows, APIs, and intelligent systems**
 * Strong focus on:
-
   * Clean architecture
   * Performance optimization
   * Security & authentication systems
@@ -23,31 +20,24 @@
 ## ⚙️ Skills
 
 ### Languages
-
-* JavaScript
-* Python
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frameworks / Libraries
-
-* Node.js
-* NestJS
-* FastAPI
-* Express
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Databases
-
-* PostgreSQL
-* MySQL
-* MongoDB
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools
-
-* Git & GitHub
-* Docker
-* CI/CD Pipelines
-* Postman
-* CLI
-* swagger
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
@@ -58,75 +48,28 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Byway LMS (EdTech)
-
-* Scalable Learning Management System backend
-* Built authentication, course APIs, and database architecture
-* Tech: Node.js, NestJS, PostgreSQL, MongoDB
-
----
-
-### 🔹 LetDap (Event Platform)
-
-* Backend contributor for event management system
-* API design & MongoDB optimization
-* Tech: Node.js, NestJS, MongoDB
-
----
-
-### 🔹 GreenVerify (FinTech • KYC)
-
-* Identity verification & compliance platform
-* AI-powered verification workflows (in progress)
-* Tech: Node.js, PostgreSQL, AI Integration
-
----
-
-### 🔹 CryptoTracker
-
-* Real-time crypto analytics platform
-* WebSocket-based live updates
-* Tech: JavaScript, APIs, Real-time systems
-
-And many more.
----
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmy-py\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Emmy-py\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emmy-py&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Emmy-py&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Emmy-py\&theme=tokyonight)
-
----
-
-## 🔥 Current Focus
-
-* Machine Learning fundamentals
-* AI Agent development
-* Automation systems
-* Backend + AI integration
-* CI/CD pipelines & scalable infrastructure
+![trophy](https://github-profile-trophy.vercel.app/?username=Emmy-py&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/emmanuel-ngene-708337263
-* Twitter (X): https://x.com/_devemmy
-* TikTok: https://www.tiktok.com/@_devemmy
-* Email: emmanuelngene145@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-ngene-708337263)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_devemmy)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_devemmy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelngene145@gmail.com)
 
 ---
+
 ## ⚡ Fun Fact
 
 I build systems that **don’t break under pressure** 🚀
-
----
