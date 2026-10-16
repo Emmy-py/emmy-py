@@ -1,13 +1,13 @@
 # Hi, I'm Emmanuel 👋
 
-### Software Engineer | Node.js • NestJS • FastAPI • AI (In Progress)
+### Software Engineer | Node.js • NestJS • FastAPI • Python
 
 ---
 
 ## 🧠 About Me
 
 * Software Developer focused on **scalable, production-ready systems**
-* Specialized in **Node.js, NestJS, FastAPI, MySQL & MongoDB**
+* Specialized in **Node.js, NestJS, FastAPI, PostgreSQL, MySQL & MongoDB**
 * Currently **upskilling in Machine Learning, AI Agents & Automation**
 * Strong focus on:
   * Clean architecture
